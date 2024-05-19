@@ -1,3 +1,4 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
 Overview
 1. Amazon S3 (Simple Storage Service):
     * Create a bucket:
